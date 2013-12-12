@@ -1,0 +1,20 @@
+{
+  "name": "ngfrontend-seed",
+  "version": "0.1.0",
+  "author": "Ken Chatfield <ken.chatfield@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "jquery": "2.0.x",
+    "angular": "1.2.x",
+    "angular-touch": "1.2.x",
+    "angular-route": "1.2.x",
+    "angular-loader": "1.2.x",
+    "angular-scenario": "1.2.x",
+    "angular-sanitize": "1.2.x",
+    "angular-mocks": "1.2.x",
+    "angular-resource": "1.2.x",
+    "angular-cookies": "1.2.x",
+    "angular-animate": "1.2.x",
+    "bootstrap-css": "3.0.x"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "kng-seed",
+  "version": "0.1.0",
+  "author": "Ken Chatfield <ken.chatfield@gmail.com>",
+  "private": true,
+  "engines": {
+    "node": "0.10.22",
+    "npm": "1.3.x"
+  },
+  "dependencies": {
+    "async": "0.2.x",
+    "coffee-script": "1.6.x",
+    "express": "3.3.x",
+    "request": "2.27.x",
+    "underscore": "1.5.x",
+    "underscore.string": "2.3.x",
+    "ejs": "0.8.x"
+  },
+  "devDependencies": {
+    "phantomjs": "1.9.x",
+    "karma": "0.10.x",
+    "karma-junit-reporter": "0.1.x",
+    "karma-jasmine": "0.1.x",
+    "karma-ng-scenario": "0.1.x",
+    "grunt": "0.4.x",
+    "grunt-contrib-coffee": "0.7.x",
+    "grunt-contrib-less": "0.7.x",
+    "grunt-contrib-watch": "0.5.x",
+    "grunt-contrib-clean": "0.5.x",
+    "grunt-karma": "0.6.x"
+  }
+}
